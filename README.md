@@ -36,10 +36,10 @@
 
 ---
 
+<h3 align="center">🎸 Beyond Coding</h3>
 <p align="center">
-  #### 🎸 Beyond Coding
-  **Playing Rock, Hard Rock & Classic Rock guitar**<br>
-  *Music + Coding = Creativity × Logic 🧠✨*
+  <b>Playing Rock, Hard Rock & Classic Rock guitar</b><br>
+  <i>Music + Coding = Creativity × Logic 🧠✨</i>
 </p>
 
 ---
