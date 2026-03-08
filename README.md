@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Prince Patel! 👋</h1>
-<h3 align="center">Data Science & AI/ML Enthusiast · Turning Data into Intelligence</h3>
+<h3 align="center">Data Science & AI/ML Enthusiast · Turning Data Into Insights</h3>
 
 <p align="center">
   <a href="https://github.com/prince3235">
@@ -45,9 +45,12 @@
 ---
 
 ### 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prince3235&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
-</p>
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prince3235&show_icons=true&theme=radium&hide_border=true)](https://github.com/prince3235)
+
+</div>
 
 ---
 
