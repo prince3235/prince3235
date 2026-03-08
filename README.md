@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/prince3235">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2496ED&center=true&vCenter=true&width=435&lines=3rd+Year+IT+Student;Machine+Learning+Explorer;Cloud+Computing+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2496ED&center=true&vCenter=true&width=435&lines=Data+Science+Enthusiast;Exploring+Machine+Learning;Turning+Data+into+Insights" alt="Typing SVG" />
   </a>
 </p>
 
@@ -37,15 +37,16 @@
 ---
 
 <p align="center">
-  <i>🎸 Playing Rock, Hard Rock & Classic Rock guitar</i><br>
-  <b>Music + Coding = Creativity × Logic 🧠✨</b>
+  #### 🎸 Beyond Coding
+  **Playing Rock, Hard Rock & Classic Rock guitar**<br>
+  *Music + Coding = Creativity × Logic 🧠✨*
 </p>
 
 ---
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prince3235&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prince3235&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
 </p>
 
 ---
