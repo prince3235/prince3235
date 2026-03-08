@@ -46,11 +46,13 @@
 
 ### 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prince3235&show_icons=true&theme=radium&hide_border=true)](https://github.com/prince3235)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=prince3235&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-</div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince3235&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
