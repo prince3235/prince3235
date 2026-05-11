@@ -1,54 +1,70 @@
 <div align="center">
-  <h1><code>> PRINCE_PATEL.init()</code></h1>
-  <p><strong>IT Student | Data Science & MLOps Enthusiast | Guitarist</strong></p>
+  <h1>Hi there, I'm Prince Patel! 👋</h1>
+  <h3>Data Science & AI/ML Enthusiast · Turning Data Into Insights</h3>
 
-  <img src="https://komarev.com/ghpvc/?username=prince3235&color=1d9e75&style=flat-square&label=STREAK" alt="prince3235" />
+  <a href="https://github.com/prince3235">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1d9e75&center=true&vCenter=true&width=500&lines=Data+Science+Enthusiast;Exploring+Machine+Learning;Building+MLOps+Pipelines;Turning+Data+into+Insights" alt="Typing SVG" />
+  </a>
 
-  <p align="center">
-    <a href="https://www.linkedin.com/in/princeepatel"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:princebpatel2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://github.com/prince3235"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=prince3235&color=1d9e75&style=flat-square&label=PROFILE+VIEWS" alt="Visitors" />
   </p>
 </div>
 
 ---
 
-### ⚡ Quick Status
-- 🔭 **Working on:** End-to-end Machine Learning pipelines & MLOps automation.
-- 🎓 **Education:** 3rd Year IT Student at LDRP-ITR.
-- 🎸 **Passion:** Shredding solos on my Yamaha F280.
-- 🎯 **Goal:** Building AI systems that solve real-world problems.
+### 👨‍💻 About Me
+* 🔭 **Deep Dive:** Currently mastering **MLOps automation** and **End-to-End Predictive Systems**.
+* 🎓 **Academic:** 3rd Year IT Student at **LDRP Institute**.
+* 🌱 **Philosophy:** I learn best by building, breaking, and improving real-world projects.
+* 🎸 **Vibe:** Shredding Rock & Classic Rock solos on my Yamaha F280.
 
 ---
 
-### 🛠️ Technical Arsenal
-
-| Domain | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | Python, JavaScript, Java, C++ |
-| **Data Science** | Scikit-Learn, TensorFlow, Pandas, NumPy, SHAP |
-| **MLOps & DevOps** | Docker, Git, Flask, Streamlit |
-| **Design** | Minimalist UI, Dark Themes, Figma |
+### 🛠️ Tech Arsenal
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLOps-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Science-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</div>
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=prince3235&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince3235&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+### 🚀 Highlighted Projects
+| Project Name | Tech/Domain | Focus |
+| :--- | :--- | :--- |
+| **Transaction Fraud Intel** | `Random Forest` `SHAP` | Explainable AI & Fraud Detection |
+| **Data-Agnostic MLOps** | `Docker` `DVC` `Flask` | Scalable Training Pipelines |
+| **Plant Disease Detection** | `MobileNetV2` `DL` | Multi-stage Image Classification |
+| **Aarogya - AI Health** | `AI` `Full Stack` | Medical Assistant & Report Analysis |
+
+---
+
+### 📊 GitHub Insights
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prince3235&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince3235&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
 </p>
 
 ---
 
-### 📂 Featured Projects
-- **Transaction Fraud Intelligence:** Explainable AI using Random Forest & SHAP.
-- **Aarogya AI:** Healthcare companion for symptom analysis.
-- **Plant Disease Detection:** Multi-stage classification with MobileNetV2.
+<h3 align="center">🎸 Beyond Coding</h3>
+<p align="center">
+  <b>Playing Rock, Hard Rock & Classic Rock guitar</b><br>
+  <i>Music + Coding = Creativity × Logic 🧠✨</i>
+</p>
 
 ---
 
+### 📫 Let's Connect!
+<p align="center">
+  <a href="https://www.linkedin.com/in/princeepatel"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:princebpatel2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it." alt="Quote" />
-  <br />
-  <code>// Keep pushing commits.</code>
+  <code>// Status: Open to opportunities · 2026</code>
 </div>
