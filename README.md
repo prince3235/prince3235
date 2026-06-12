@@ -1,81 +1,79 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=Prince%20Patel&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%7C%20ML%20Engineer%20%7C%20Open%20Source%20Builder&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=180&section=header&text=Prince%20Patel&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Data%20Engineer%20%E2%80%A2%20ML%20Engineer%20%E2%80%A2%20Open%20Source%20Builder&descAlignY=62&descSize=17&descColor=aaaaaa" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=2M+rows.+23+seconds.+Zero+RAM+load.;ROC-AUC+0.991+on+fraud+detection.;C%2B%2B17+core.+Python+soul.+PyPI+published.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=4000&pause=2000&color=CCCCCC&center=true&vCenter=true&width=540&lines=2M+rows.+23+seconds.+Zero+RAM+load.;ROC-AUC+0.991+%E2%80%94+production+fraud+detection.;C%2B%2B17+core.+Python+soul.+PyPI+published.;Building+in+public+%E2%80%94+Zedda+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=prince3235&color=6366f1&style=flat-square&label=Profile+Views)
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/prince3235?style=flat-square&color=6366f1&label=Followers)](https://github.com/prince3235)
+![](https://komarev.com/ghpvc/?username=prince3235&style=flat-square&color=555555&label=profile+views)
 
 </div>
 
+<br/>
+
 ---
 
-### 🔧 What I Build
-
 ```
-⚡  Zedda     — C++17 EDA library · O(1) memory · PyPI published · 2M rows/23s
-🔍  Fraud AI  — ROC-AUC 0.991 · 99%+ recall · SHAP explainability
-👥  CRM ML    — 1M+ records · K-Means segments · XGBoost churn · Streamlit dashboard
-🏢  IBM OSS   — PR #4936 & #4764 merged · test coverage 66% → 98%
+  ⚡  Zedda         C++17 EDA library · O(1) memory · PyPI · 2M rows in 23s
+  🔍  Fraud AI       ROC-AUC 0.991 · PR-AUC 0.999 · 99%+ recall · SHAP
+  👥  CRM ML         1M+ records · K-Means · XGBoost + SMOTE · Streamlit
+  🏢  IBM OSS        PR #4936 & #4764 merged · test coverage 66% → 98%
 ```
 
 ---
 
-### 🛠 Tech Stack
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B17-111111?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-111111?style=flat-square&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-111111?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-111111?style=flat-square&logo=css3&logoColor=white)
+
+**ML & Data**
+
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-111111?style=flat-square&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-111111?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-111111?style=flat-square&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-111111?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-111111?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-111111?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-111111?style=flat-square&logo=python&logoColor=white)
+
+**Tools**
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111111?style=flat-square&logo=github-actions&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-111111?style=flat-square&logo=streamlit&logoColor=white)
+![PyPI](https://img.shields.io/badge/PyPI-111111?style=flat-square&logo=pypi&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-111111?style=flat-square&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=white)
+
+---
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B17-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=flat-square&logo=pypi&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<img height="155em" src="https://github-readme-stats.vercel.app/api?username=prince3235&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=ffffff&text_color=888888&icon_color=ffffff" />
+<img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince3235&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888&langs_count=6" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=prince3235&theme=dark&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=555555&currStreakNum=ffffff&sideNums=ffffff" />
 
 </div>
 
 ---
 
-### 📊 Stats
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=prince3235&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince3235&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prince3235&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-### 📬 Connect
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 &nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prince3235)
+[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prince3235)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=100&section=footer" />
