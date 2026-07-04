@@ -1,15 +1,15 @@
-<div align="center">
+<h1 align="center">Hey there, I'm <a href="https://github.com/prince3235">Prince</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/></h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=500&lines=Prince+Patel;ML+Engineer;Open+Source+%40+IBM;Building+Zedda+⚡" alt="Typing SVG" />
+<p align="center">
+  <b>ML Engineer · Open Source @ IBM · Building <a href="https://pypi.org/project/zedda/">Zedda</a> ⚡</b>
+</p>
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/princeepatel)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:princebpatel2005@gmail.com)
-[![PyPI](https://img.shields.io/badge/PyPI-Zedda-3775A9?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/project/zedda/)
-[![Views](https://komarev.com/ghpvc/?username=prince3235&style=flat-square&color=6E40C9&label=views)](https://github.com/prince3235)
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/princeepatel">LinkedIn</a> ·
+  <a href="mailto:princebpatel2005@gmail.com">Email</a> ·
+  <a href="https://pypi.org/project/zedda/">PyPI</a> ·
+  <a href="https://github.com/prince3235">GitHub</a>
+</p>
 
 ---
 
