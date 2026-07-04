@@ -1,235 +1,126 @@
-<div align="center">
+```
+$ whoami
+```
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/>
+<h1 align="center">Prince Patel</h1>
 
-# Prince Patel
-
-**`Data Scientist  ·  ML Engineer  ·  Open Source Contributor`**
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1200&color=6E40C9&center=true&vCenter=true&width=680&lines=Streaming+2M+rows+in+23s+at+O(1)+memory+⚡;IBM+%2F+mcp-context-forge+contributor+🌐;ROC-AUC+0.991+•+PR-AUC+0.999+on+fraud+detection+🎯;C%2B%2B17+core+→+Python+bindings+→+PyPI+🚀;Turning+raw+data+into+real+decisions+🧠" />
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/princeepatel)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:princebpatel2005@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/prince3235?style=flat-square&color=6E40C9&labelColor=0d1117&label=followers)](https://github.com/prince3235)
-[![Profile Views](https://komarev.com/ghpvc/?username=prince3235&style=flat-square&color=6E40C9&label=views)](https://github.com/prince3235)
-
-</div>
-
-<br/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/princeepatel">LinkedIn</a> ·
+  <a href="https://github.com/prince3235">GitHub</a> ·
+  <a href="mailto:princebpatel2005@gmail.com">Email</a> ·
+  <a href="https://pypi.org/project/zedda/">PyPI — Zedda</a>
+</p>
 
 ---
 
-<table>
-<tr>
-<td width="55%" valign="top">
+**🧑‍💻 About Me** <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="220px" align="right">
 
-## 🧑‍💻 The Story
+✨ Final-year IT student · LDRP-ITR · SPI: **8.50** · Ahmedabad 🇮🇳<br>
+⚡ Building **[Zedda](https://github.com/prince3235/zedda)** — C++17 EDA library shipped to PyPI<br>
+🌐 Open Source contributor @ **[IBM / mcp-context-forge](https://github.com/IBM/mcp-context-forge)** · 2 merged PRs<br>
+🧠 Streaming **2M rows in 23s** at O(1) memory — Welford + HyperLogLog<br>
+📊 Fraud detection · RFM pipelines · ML at scale<br>
+🟢 Open to **internships** and **research collaborations**<br>
+📬 How to reach me: [princebpatel2005@gmail.com](mailto:princebpatel2005@gmail.com)<br>
 
-Final-year **IT student** from Ahmedabad who builds things that work in production — not just in notebooks.
-
-Currently shipping **[Zedda](https://github.com/prince3235/zedda)** — a C++17 EDA library that profiles 2M rows in 23 seconds at **O(1) memory** using Welford streaming stats, HyperLogLog cardinality, and stratified Parquet sampling. Published on PyPI with GitHub Actions CI/CD building native wheels for Windows, macOS & Linux.
-
-Merged **2 PRs into IBM's mcp-context-forge** — one fixing a backend security issue, another taking React test coverage from **66% → 98%**.
-
-I care about performance, clean data pipelines, and systems that explain themselves.
-
-</td>
-<td width="45%" valign="top">
-
-## 📌 At a Glance
-
-🏫 &nbsp; B.E. IT · LDRP-ITR · **SPI 8.50** · Final Year  
-📍 &nbsp; Ahmedabad, Gujarat, India 🇮🇳  
-🔭 &nbsp; Building **Zedda** · C++17 + nanobind → PyPI  
-🤝 &nbsp; Contributor · **IBM / mcp-context-forge**  
-⚡ &nbsp; Obsessed with **O(1) memory** streaming  
-📊 &nbsp; Fraud detection · RFM pipelines · EDA at scale  
-🟢 &nbsp; Open to **Internships & Research Collabs**  
-📬 &nbsp; princebpatel2005@gmail.com  
-
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=py,cpp,mysql,postgres,html,css&theme=dark" />
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,anaconda,fastapi,docker,git&theme=dark" />
-
-<img src="https://skillicons.dev/icons?i=github,linux,vscode,aws,jupyter&theme=dark" />
-
-<br/><br/>
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square)
-![SHAP](https://img.shields.io/badge/SHAP-FF6B6B?style=flat-square)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![PyPI](https://img.shields.io/badge/PyPI-Published-3775A9?style=flat-square&logo=pypi&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![nanobind](https://img.shields.io/badge/nanobind-C%2B%2B17-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-
-</div>
-
----
-
-## 🤝 Open Source · IBM / mcp-context-forge
-
-<div align="center">
-
-[![IBM](https://img.shields.io/badge/IBM-mcp--context--forge-054ADA?style=for-the-badge&logo=ibm&logoColor=white)](https://github.com/IBM/mcp-context-forge)
-
-</div>
-
-<br/>
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-**✅ [PR #4936](https://github.com/IBM/mcp-context-forge/pull/4936) · Merged**
-
-`backend · security`
-
-Removed legacy CSRF endpoint & standardized cookie naming conventions across the Python backend
-
-</td>
-<td align="center" width="50%">
-
-**✅ [PR #4764](https://github.com/IBM/mcp-context-forge/pull/4764) · Merged**
-
-`frontend · testing`
-
-Boosted React UI test coverage  
-**66.93% → 98.24%** across all metrics
-
-</td>
-</tr>
-</table>
+**🛠 Tech Stack**<br><br>
+Languages:&nbsp;
+<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-C%2B%2B17-00599C?logo=cplusplus&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-CSS-2275B2?logo=css3&logoColor=white&style=flat"><br>
+ML / Data Science:&nbsp;
+<img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-XGBoost-FF6600?style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-SHAP-FF6B6B?style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat"><br>
+Tools & DevOps:&nbsp;
+<img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=githubactions&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-PyPI-3775A9?logo=pypi&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=flat">
 
 ---
 
-## 🚀 Featured Projects
+## 🤝 Open Source — IBM / mcp-context-forge
 
-<table>
-<tr>
-<td width="50%" valign="top">
+[![IBM](https://img.shields.io/badge/IBM-mcp--context--forge-054ADA?style=flat&logo=ibm&logoColor=white)](https://github.com/IBM/mcp-context-forge)
 
-### ⚡ [Zedda — EDA Library](https://github.com/prince3235/zedda)
-
-![Active](https://img.shields.io/badge/status-active-brightgreen?style=flat-square)
-![PyPI](https://img.shields.io/badge/PyPI-Published-3775A9?style=flat-square&logo=pypi&logoColor=white)
-![C++17](https://img.shields.io/badge/C%2B%2B17-core-00599C?style=flat-square&logo=cplusplus)
-![CI/CD](https://img.shields.io/badge/GitHub_Actions-CI%2FCD-2088FF?style=flat-square)
-
-Production-grade EDA library — **C++17** core with Python bindings via nanobind. Native wheels for Windows, macOS & Linux across Python **3.9–3.12**.
-
-- ⚡ **2M rows profiled in 23s** at O(1) memory
-- 🔢 Welford streaming stats + HyperLogLog cardinality
-- 🧪 Stratified Parquet row-group sampling
-- 📊 Data Quality Score (0–100) + Smart Warnings + Correlation Alerts
-
-</td>
-<td width="50%" valign="top">
-
-### 🕵️ [Fraud Intelligence System](https://github.com/prince3235/Transaction-Fraud-Intelligence)
-
-![ROC-AUC](https://img.shields.io/badge/ROC--AUC-0.991-6E40C9?style=flat-square)
-![PR-AUC](https://img.shields.io/badge/PR--AUC-0.999-6E40C9?style=flat-square)
-![Recall](https://img.shields.io/badge/Fraud_Recall-99%25%2B-brightgreen?style=flat-square)
-![SHAP](https://img.shields.io/badge/SHAP-Explainability-FF6B6B?style=flat-square)
-
-End-to-end fraud detection pipeline — severely imbalanced data, zero data leakage.
-
-- 📐 20+ behavioral & velocity features engineered
-- 🎯 **99%+ fraud recall** via threshold optimization
-- 🔍 SHAP explainability for non-technical stakeholders
-- 🧮 Risk scoring (0–100) with tiered alert levels
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### 📊 [Customer Segmentation & Retention](https://github.com/prince3235/Customer-Segmentation-and-Retention-Analysis)
-
-![Records](https://img.shields.io/badge/1M%2B_Records-Processed-6E40C9?style=flat-square)
-![XGBoost](https://img.shields.io/badge/XGBoost-Churn_Classifier-FF6600?style=flat-square)
-![Streamlit](https://img.shields.io/badge/Streamlit-Live_CRM_Dashboard-FF4B4B?style=flat-square&logo=streamlit)
-![K-Means](https://img.shields.io/badge/K--Means-4_Personas-054ADA?style=flat-square)
-
-Automated **RFM feature pipeline** over **1M+ records** — segmentation that used to take days now runs in minutes.  
-XGBoost churn classifier (SMOTE + optimized thresholds) · Live **Streamlit CRM dashboard** with AI-predicted churn scores.
-
-</td>
-</tr>
-</table>
+| PR | What I Did |
+|---|---|
+| ✅ [PR #4936](https://github.com/IBM/mcp-context-forge/pull/4936) — Merged | Removed legacy CSRF endpoint · standardized cookie naming across the Python backend |
+| ✅ [PR #4764](https://github.com/IBM/mcp-context-forge/pull/4764) — Merged | Boosted React UI test coverage **66.93% → 98.24%** across all metrics |
 
 ---
 
-## 🏆 GitHub Trophies
+## 🚀 Projects
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=prince3235&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" />
-
-</div>
+| Project | What It Does | Highlights |
+|---------|-------------|------------|
+| ⚡ **[Zedda](https://github.com/prince3235/zedda)** | Production-grade EDA library — C++17 core with Python bindings via nanobind, published to PyPI with CI/CD-built native wheels | 2M rows in 23s · O(1) memory · Windows / macOS / Linux · Python 3.9–3.12 |
+| 🕵️ **[Fraud Intelligence System](https://github.com/prince3235/Transaction-Fraud-Intelligence)** | End-to-end fraud detection pipeline on severely imbalanced transactional data | ROC-AUC 0.991 · PR-AUC 0.999 · 99%+ fraud recall · SHAP explainability · Risk score 0–100 |
+| 📊 **[Customer Segmentation & Retention](https://github.com/prince3235/Customer-Segmentation-and-Retention-Analysis)** | Automated RFM pipeline · K-Means clustering · XGBoost churn classifier · Live Streamlit CRM dashboard | 1M+ records processed · 4 customer personas · AI-predicted churn probabilities |
 
 ---
 
-## 📈 GitHub Stats
+<details>
+<summary><b>📈 GitHub Analytics</b></summary>
+<br>
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prince3235&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6E40C9&icon_color=6E40C9&text_color=c9d1d9" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince3235&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6E40C9&text_color=c9d1d9&langs_count=8" height="165" />
+</p>
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=prince3235&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6E40C9&icon_color=6E40C9&text_color=c9d1d9" />
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince3235&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6E40C9&text_color=c9d1d9&langs_count=8" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prince3235&theme=tokyonight&hide_border=true&background=0d1117&ring=6E40C9&fire=9B59B6&currStreakLabel=6E40C9" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prince3235&bg_color=0d1117&color=6E40C9&line=6E40C9&point=9B59B6&area=true&hide_border=true" width="100%" />
+</p>
 
-<div align="center">
+</details>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prince3235&theme=tokyonight&hide_border=true&background=0d1117&ring=6E40C9&fire=9B59B6&currStreakLabel=6E40C9" width="58%" />
+<details>
+<summary><b>🏆 GitHub Trophies</b></summary>
+<br>
 
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=prince3235&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" />
+</p>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prince3235&bg_color=0d1117&color=6E40C9&line=6E40C9&point=9B59B6&area=true&hide_border=true" width="100%" />
-
-</div>
+</details>
 
 ---
 
 ## 📜 Certifications
 
-<div align="center">
-
-![NPTEL](https://img.shields.io/badge/NPTEL-Python_for_Data_Science-FF6B35?style=for-the-badge&logo=python&logoColor=white)
-![IBM](https://img.shields.io/badge/IBM-Data_Science_Community-054ADA?style=for-the-badge&logo=ibm&logoColor=white)
-
-</div>
+<img src="https://img.shields.io/badge/NPTEL-Python_for_Data_Science-FF6B35?style=flat&logo=python&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/IBM-Data_Science_Community-054ADA?style=flat&logo=ibm&logoColor=white">
 
 ---
 
-<div align="center">
+<p align="left">
+  <a href="https://www.linkedin.com/in/princeepatel"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <a href="mailto:princebpatel2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" /></a>&nbsp;
+  <a href="https://github.com/prince3235"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>&nbsp;
+  <a href="https://pypi.org/project/zedda/"><img src="https://img.shields.io/badge/PyPI-Zedda-3775A9?style=flat&logo=pypi&logoColor=white" /></a>&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=prince3235&style=flat&color=6E40C9&label=views" />
+</p>
 
-**Let's build something that matters.**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-princeepatel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/princeepatel)
-[![Gmail](https://img.shields.io/badge/Gmail-princebpatel2005@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:princebpatel2005@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-prince3235-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prince3235)
-[![PyPI](https://img.shields.io/badge/PyPI-Zedda-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/zedda/)
-
-<br/>
-
-<sub>📍 Ahmedabad · 🟢 Open to Opportunities · <strong>+91 87588 91119</strong></sub>
-
-</div>
+```
+$ uptime
+Final-year IT student · ML Engineer · Building in public.
+```
