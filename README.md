@@ -152,6 +152,10 @@ Automated **RFM feature pipeline** over **1M+ transaction records** — what too
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=prince3235&theme=tokyonight&hide_border=true&background=0d1117&ring=6E40C9&fire=9B59B6&currStreakLabel=6E40C9" width="60%" />
 
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prince3235&bg_color=0d1117&color=6E40C9&line=6E40C9&point=9B59B6&area=true&hide_border=true" width="100%" />
+
 </div>
 
 ---
