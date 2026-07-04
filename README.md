@@ -182,8 +182,12 @@ Automated **RFM feature pipeline** over **1M+ transaction records** — what too
 
 ## 📜 Certifications
 
-- 🎓 **NPTEL** — Python for Data Science
-- 🏆 **IBM** — Data Science Community
+<div align="center">
+
+![NPTEL](https://img.shields.io/badge/NPTEL-Python_for_Data_Science-FF6B35?style=for-the-badge&logo=python&logoColor=white)
+![IBM](https://img.shields.io/badge/IBM-Data_Science_Community-054ADA?style=for-the-badge&logo=ibm&logoColor=white)
+
+</div>
 
 ---
 
