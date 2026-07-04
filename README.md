@@ -204,6 +204,12 @@ Automated **RFM feature pipeline** over **1M+ transaction records** — what too
 
 <br/>
 
+![Location](https://img.shields.io/badge/📍_Location-Ahmedabad,_India-6E40C9?style=flat-square)
+![Status](https://img.shields.io/badge/🟢_Status-Open_to_Opportunities-brightgreen?style=flat-square)
+![Phone](https://img.shields.io/badge/📞_Phone-%2B91_87588_91119-gray?style=flat-square)
+
+<br/>
+
 > *"Data is the new oil, but insights are the refined fuel."* ⚡
 
 </div>
