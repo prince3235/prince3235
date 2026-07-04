@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm <a href="https://github.com/prince3235">Prince</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/></h1>
 
 <p align="center">
-  <b>ML Engineer · Open Source @ IBM · Building <a href="https://pypi.org/project/zedda/">Zedda</a> ⚡</b>
+  <b>ML Engineer · MLOps · Open Source @ IBM · Building <a href="https://pypi.org/project/zedda/">Zedda</a> ⚡</b>
 </p>
 
 <p align="center">
@@ -28,28 +28,11 @@ Final-year IT · LDRP-ITR · SPI **8.50** · Ahmedabad 🇮🇳
 ---
 
 <b>🛠 Tech Stack</b><br><br>
-🔤 Languages:
-<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-C%2B%2B17-00599C?logo=cplusplus&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-CSS-2275B2?logo=css3&logoColor=white&style=flat"><br>
-📊 ML & Data Science:
-<img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-XGBoost-FF6600?style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-SHAP-FF6B6B?style=flat"><br>
-🔧 Tools & DevOps:
-<img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=githubactions&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-PyPI-3775A9?logo=pypi&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-VS_Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,cpp,mysql,postgres,html,css&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,anaconda,fastapi,flask&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,aws&theme=dark" />
+</p>
 
 ---
 
