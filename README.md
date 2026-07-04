@@ -139,6 +139,16 @@ Automated **RFM feature pipeline** over **1M+ transaction records** — what too
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=prince3235&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" />
+
+</div>
+
+---
+
 ## 📈 GitHub Stats
 
 <div align="center">
