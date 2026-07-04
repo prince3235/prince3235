@@ -20,10 +20,12 @@
 prince = {
     "name"       : "Prince Patel",
     "location"   : "Ahmedabad, India 🇮🇳",
-    "education"  : "B.E. Information Technology @ LDRP-ITR (SPI: 8.50)",
-    "focus"      : ["Machine Learning", "Data Science", "Open Source"],
-    "currently"  : "Building Zedda — a production-grade EDA library in C++17",
-    "fun_fact"   : "I profile 2M rows in 23s using O(1) memory 🧠",
+    "education"  : "B.E. IT @ LDRP-ITR  |  SPI: 8.50  |  Final Year",
+    "focus"      : ["Machine Learning", "Data Science", "Open Source", "C++ Performance Engineering"],
+    "currently"  : "Building Zedda — production-grade EDA library (C++17 + nanobind → PyPI)",
+    "open_source": "Merged 2 PRs into IBM/mcp-context-forge 🚀",
+    "superpower" : "Profile 2M rows in 23s at O(1) memory complexity 🧠",
+    "open_to"    : ["Internships", "Research Collaborations", "Open Source Projects"],
     "contact"    : "princebpatel2005@gmail.com"
 }
 ```
