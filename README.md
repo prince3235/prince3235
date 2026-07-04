@@ -69,10 +69,12 @@ prince = {
 
 <div align="center">
 
-| PR | Impact |
-|---|---|
-| ✅ **[PR #4936](https://github.com/IBM/mcp-context-forge/pull/4936)** — Merged | Removed legacy CSRF endpoint & standardized cookie naming across the Python backend |
-| ✅ **[PR #4764](https://github.com/IBM/mcp-context-forge/pull/4764)** — Merged | Boosted React UI test coverage **66.93% → 98.24%** across all metrics |
+[![IBM Repo](https://img.shields.io/badge/IBM-mcp--context--forge-054ADA?style=for-the-badge&logo=ibm&logoColor=white)](https://github.com/IBM/mcp-context-forge)
+
+| PR | Type | Impact |
+|:---:|:---:|---|
+| ✅ **[PR #4936](https://github.com/IBM/mcp-context-forge/pull/4936)** — **Merged** | `backend` | Removed legacy CSRF endpoint & standardized cookie naming conventions across Python backend |
+| ✅ **[PR #4764](https://github.com/IBM/mcp-context-forge/pull/4764)** — **Merged** | `testing` | Boosted React UI test coverage **66.93% → 98.24%** across all metrics |
 
 </div>
 
