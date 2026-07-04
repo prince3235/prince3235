@@ -13,15 +13,13 @@ $ whoami
 
 ---
 
-**🧑‍💻 About Me** <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="220px" align="right">
+**🧑‍💻 About Me** <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200px" align="right">
 
-✨ Final-year IT student · LDRP-ITR · SPI: **8.50** · Ahmedabad 🇮🇳<br>
-⚡ Building **[Zedda](https://github.com/prince3235/zedda)** — C++17 EDA library shipped to PyPI<br>
-🌐 Open Source contributor @ **[IBM / mcp-context-forge](https://github.com/IBM/mcp-context-forge)** · 2 merged PRs<br>
-🧠 Streaming **2M rows in 23s** at O(1) memory — Welford + HyperLogLog<br>
-📊 Fraud detection · RFM pipelines · ML at scale<br>
-🟢 Open to **internships** and **research collaborations**<br>
-📬 How to reach me: [princebpatel2005@gmail.com](mailto:princebpatel2005@gmail.com)<br>
+I build ML systems that actually work — not just Jupyter demos.<br><br>
+Currently shipping **[Zedda](https://github.com/prince3235/zedda)** — a C++17 EDA library that profiles 2M rows in 23 seconds at O(1) memory. It's on PyPI. Real users. Real CI/CD.<br><br>
+Merged **2 PRs into IBM's [mcp-context-forge](https://github.com/IBM/mcp-context-forge)** — one fixed backend security, the other pushed React test coverage from 66% → 98%.<br><br>
+📍 Ahmedabad · 🎓 LDRP-ITR · SPI **8.50** · Final Year<br>
+🟢 Open to internships & research collabs · 📬 princebpatel2005@gmail.com
 
 <br clear="right"/>
 
@@ -64,19 +62,17 @@ Tools & DevOps:&nbsp;
 
 ---
 
-## 🚀 Projects
+## 🚀 Things I've Built
 
-| Project | What It Does | Highlights |
-|---------|-------------|------------|
-| ⚡ **[Zedda](https://github.com/prince3235/zedda)** | Production-grade EDA library — C++17 core with Python bindings via nanobind, published to PyPI with CI/CD-built native wheels | 2M rows in 23s · O(1) memory · Windows / macOS / Linux · Python 3.9–3.12 |
-| 🕵️ **[Fraud Intelligence System](https://github.com/prince3235/Transaction-Fraud-Intelligence)** | End-to-end fraud detection pipeline on severely imbalanced transactional data | ROC-AUC 0.991 · PR-AUC 0.999 · 99%+ fraud recall · SHAP explainability · Risk score 0–100 |
-| 📊 **[Customer Segmentation & Retention](https://github.com/prince3235/Customer-Segmentation-and-Retention-Analysis)** | Automated RFM pipeline · K-Means clustering · XGBoost churn classifier · Live Streamlit CRM dashboard | 1M+ records processed · 4 customer personas · AI-predicted churn probabilities |
+| Project | What It Does | The Numbers |
+|---------|-------------|-------------|
+| ⚡ **[Zedda](https://github.com/prince3235/zedda)** | EDA library in C++17 · nanobind Python bindings · native wheels on PyPI · CI/CD across 3 OS | 2M rows · 23s · O(1) memory |
+| 🕵️ **[Fraud Intelligence System](https://github.com/prince3235/Transaction-Fraud-Intelligence)** | End-to-end fraud detection on imbalanced data · 20+ features · SHAP explainability · risk scoring | ROC-AUC 0.991 · 99%+ recall |
+| 📊 **[Customer Segmentation](https://github.com/prince3235/Customer-Segmentation-and-Retention-Analysis)** | RFM pipeline · K-Means · XGBoost churn model · live Streamlit CRM dashboard | 1M+ records · 4 personas |
 
 ---
 
-<details>
-<summary><b>📈 GitHub Analytics</b></summary>
-<br>
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prince3235&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6E40C9&icon_color=6E40C9&text_color=c9d1d9" height="165" />
@@ -86,22 +82,6 @@ Tools & DevOps:&nbsp;
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prince3235&theme=tokyonight&hide_border=true&background=0d1117&ring=6E40C9&fire=9B59B6&currStreakLabel=6E40C9" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prince3235&bg_color=0d1117&color=6E40C9&line=6E40C9&point=9B59B6&area=true&hide_border=true" width="100%" />
-</p>
-
-</details>
-
-<details>
-<summary><b>🏆 GitHub Trophies</b></summary>
-<br>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prince3235&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" />
-</p>
-
-</details>
 
 ---
 
@@ -122,5 +102,5 @@ Tools & DevOps:&nbsp;
 
 ```
 $ uptime
-Final-year IT student · ML Engineer · Building in public.
+Final-year IT student. Building real things. Learning everything in public.
 ```
