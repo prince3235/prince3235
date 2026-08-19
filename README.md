@@ -21,7 +21,6 @@ Currently maintaining **[Zedda](https://github.com/prince3235/zedda)**, a C++17 
 
 Merged **2 PRs into IBM's [mcp-context-forge](https://github.com/IBM/mcp-context-forge)** — backend security fix + React test coverage **66% → 98%**.
 
-Final-year IT · LDRP-ITR · SPI **8.50** · Ahmedabad 🇮🇳
 
 <br clear="both"/>
 
